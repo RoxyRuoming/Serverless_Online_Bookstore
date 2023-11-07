@@ -1,2 +1,4 @@
-# Serverless_Online_Bookstore-
-a online bookstore based on AWS and React
+# Basic tools:
+AWS Lambda, Amplify, Cognito, DynamoDB, React, GraphQL
+
+
